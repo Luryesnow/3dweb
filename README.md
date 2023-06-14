@@ -1,5 +1,5 @@
 # 3dweb
-this is project, where i lerning three.js library.
+this is project, where i learning three.js library.
 1: how loading singl 3d model or all room? (and rotate, resizing, moving)
 2: how make immersive 3d experiences for users more better?
 ______________
