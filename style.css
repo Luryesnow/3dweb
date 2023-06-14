@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background-image: url("/material/art-place.jpg");
+}
+
+.list-item {
+    text-decoration: none;
+}
+
+.list {
+    list-style-type: none;
+    font-size: 40px;
+}
+
+.container {
+    margin-left: 42%;
+    width: 300px;
+    text-align: center;
+    margin-top: 20%;
+    /* background-color: rgba(67, 79, 110, 0.555); */
+    border-radius: 10%;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+

@@ -1,0 +1,14 @@
+body {
+    
+    background: linear-gradient(to right, rgb(0, 123, 255), rgb(251, 80, 80)) ;
+}
+.container {  
+    background-color: rgba(42, 52, 77, 0.733);
+    color: white;
+    width: 500px;
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 36%;
+    border-radius: 5%;
+    
+}
