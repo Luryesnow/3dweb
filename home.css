@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.head-text {
+    position: absolute;
+	color: white;
+    background-color: rgba(65, 66, 78, 0.788);
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 10%;
+}

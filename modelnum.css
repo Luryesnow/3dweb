@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+.head-text {
+	position: absolute;
+	top: 10px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+	color: white;
+	
+}
+
+.head-about {
+	position: absolute;
+	top: 30px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+	color: white;
+
+}
+
+.button-next {
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: end;
+	z-index: 100;
+	display:block;
+	color: red;
+	font-size: 50px;
+	text-decoration: none;
+
+}
+
+.button-back {
+	position: absolute;
+	top: 50%;
+	text-align: end;
+	z-index: 100;
+	display:block;
+	color: red;
+	font-size: 50px;
+	text-decoration: none;
+}
